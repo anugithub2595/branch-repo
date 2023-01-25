@@ -1,0 +1,39 @@
+I have a remote server connection with a jupyterhub running on it.l
+
+We are using Vagrant and Ansible for that and we need to add new users to the jupyterhub.
+
+Unfortunately I don't know how to do it and I would need some help.
+
+
+
+Some documentation files exist.
+For the task the user would need to connect with me via TeamViewer to do it.
+
+Further details can be discussed in Chat.
+
+
+What I know is that this can be done following these steps:
+
+-make vagrant
+-change directory
+-Ansible-vault edit vault
+I have a remote server connection with a jupyterhub running on it.l
+
+We are using Vagrant and Ansible for that and we need to add new users to the jupyterhub.
+
+Unfortunately I don't know how to do it and I would need some help.
+
+
+
+Some documentation files exist.
+For the task the user would need to connect with me via TeamViewer to do it.
+
+Further details can be discussed in Chat.
+
+
+What I know is that this can be done following these steps:
+
+-make vagrant
+-change directory
+-Ansible-vault edit vault
+
